@@ -1,0 +1,52 @@
+{
+  "Europe2": {
+    "id": "Europe2",
+    "start_date": "2021-06-01",
+    "duration": 6,
+    "price": 3500,
+    "guide": {
+      "name": "Sara L",
+      "email": "sarah@gmail.com",
+      "cellular": "3333333"
+    },
+    "path": [
+      {
+        "name": "Pizza",
+        "country": "France"
+      },
+      {
+        "name": "Millano",
+        "country": "Italy"
+      },
+      {
+        "name": "name66666",
+        "country": "country"
+      }
+    ]
+  },
+  "Europe1": {
+    "id": "Europe1",
+    "start_date": "2021-10-31",
+    "duration": 15,
+    "price": 6000,
+    "guide": {
+      "name": "David Levi",
+      "email": "meirc1@gmail.com",
+      "cellular": "4444444"
+    },
+    "path": [
+      {
+        "name": "Pizza",
+        "country": "France"
+      },
+      {
+        "name": "Notre-Dame",
+        "country": "France"
+      },
+      {
+        "name": "London",
+        "country": "England"
+      }
+    ]
+  }
+}
